@@ -51,3 +51,24 @@ A professional family-run scaffolding contractor. This high-converting design us
 
 ![Preview 1](scaffolding-contractors/preview.png)
 ![Preview 2](scaffolding-contractors/preview2.png)
+
+---
+
+## [Vehicle Recovery](./vehicle-recovery/)
+A 24/7 nationwide vehicle recovery and logistics service. This high-contrast design uses a deep slate and safety amber theme to immediately convey urgency, reliability, and emergency response.
+
+![Preview](vehicle-recovery/preview.png)
+
+---
+
+## [Custom Gaming PCs](./custom-gaming-pcs/)
+A boutique tech lab specializing in high-performance gaming rigs and retro console restorations. Features a premium, dark-mode "gamer" aesthetic with minimalist layout and clean typography.
+
+![Preview](custom-gaming-pcs/preview.png)
+
+---
+
+## [Heritage Bookkeeping](./heritage-bookkeeping/)
+A high-end financial and wealth management layout. This stunning editorial design uses deep forest green, crisp white, and serif typography to project decades of established trust and precision.
+
+![Preview](heritage-bookkeeping/preview.png)
