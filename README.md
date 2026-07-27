@@ -1,96 +1,56 @@
 # Client Mockups Portfolio
 
-A visual gallery of custom, mobile-first responsive website mockups designed and pitched to local businesses.
+A visual gallery of custom, mobile-first responsive website mockups designed and pitched to local businesses. These concepts are built with a focus on high-converting layouts, modern UI/UX principles, and lightning-fast performance.
 
 ---
 
-## [Telecoms Landing Page](./telecoms-landing-page/)
-A B2B telecom and VoIP provider. This sleek mockup features a dark slate and electric cyan theme, focusing heavily on mobile usability and clear communication paths.
+## [Artisan Farmers Market](./artisan-farmers-market/)
+A vibrant, community-focused layout designed for local produce markets. Features a clean events calendar, rich photography integration, and clear navigation for both stallholders and visitors.
 
-![Preview](telecoms-landing-page/preview.png)
-
----
-
-## [IT Hardware Store](./it-hardware-store/)
-A local IT hardware, office supplies, and tech consumables store. This tailored e-commerce mobile mockup features clean category grids and prominent next-day delivery trust signals.
-
-![Preview](it-hardware-store/preview.png)
+![Preview 1](artisan-farmers-market/1.jpg)
+![Preview 2](artisan-farmers-market/2.png)
+![Preview 3](artisan-farmers-market/3.png)
 
 ---
 
-## [Accountancy Firm](./accountancy-firm/)
-Essential financial support for local businesses. This mockup utilizes a clean, professional financial layout designed to build immediate trust and drive fast contact conversions.
+## [Multi-Venue Hospitality Group](./multi-venue-hospitality/)
+Concept mockup for a regional hospitality group. Unifies multiple venue locations under a premium, dark-mode UI with a clean events and table booking grid.
 
-![Preview](accountancy-firm/preview.png)
-
----
-
-## [Managed IT Services](./managed-it-services/)
-Local IT support and managed services. This modern, tech-focused design highlights core consulting services with a crisp and highly responsive layout.
-
-![Preview](managed-it-services/preview.png)
+![Preview 1](multi-venue-hospitality/1.png)
+![Preview 2](multi-venue-hospitality/2.png)
+![Preview 3](multi-venue-hospitality/3.png)
 
 ---
 
-## [HVAC & Cooling Specialist](./hvac-cooling-specialist/)
-A commercial HVAC and cooling contractor. The design employs a professional trade aesthetic emphasizing rapid response times, reliability, and commercial installations.
+## [Country Pub & Restaurant](./country-pub/)
+Modernization concept for a local gastro pub. Replaces clunky PDF menus with responsive, tabbed digital menus and prominent call-to-action buttons to drive direct table bookings.
 
-![Preview](hvac-cooling-specialist/preview.png)
-
----
-
-## [Bookkeeping Service](./bookkeeping-service/)
-Local bookkeeping and payroll support. The mockup presents a highly trustworthy financial look with prominent CTAs, highlighting fixed fees and software support.
-
-![Preview](bookkeeping-service/preview.png)
+![Preview 1](country-pub/1.jpg)
+![Preview 2](country-pub/2.png)
+![Preview 3](country-pub/3.png)
 
 ---
 
-## [Scaffolding Contractors](./scaffolding-contractors/)
-A professional family-run scaffolding contractor. This high-converting design uses a bold, dark industrial theme with vibrant orange accents representing safety gear and heavy-duty reliability.
+## [Local Tradesperson & Landscaping](./local-landscaping/)
+Lead-generation site concept for a local tradesperson. Built to transition a business off social media-only marketing by adding a highly professional layout, clear service breakdowns, and direct quote forms.
 
-![Preview 1](scaffolding-contractors/preview.png)
-![Preview 2](scaffolding-contractors/preview2.png)
-
----
-
-## [Vehicle Recovery](./vehicle-recovery/)
-A 24/7 nationwide vehicle recovery and logistics service. This high-contrast design uses a deep slate and safety amber theme to immediately convey urgency, reliability, and emergency response.
-
-![Preview](vehicle-recovery/preview.jpg)
+![Preview 1](local-landscaping/1.jpg)
+![Preview 2](local-landscaping/2.png)
+![Preview 3](local-landscaping/3.png)
 
 ---
 
-## [Custom Gaming PCs](./custom-gaming-pcs/)
-A boutique tech lab specializing in high-performance gaming rigs and retro console restorations. Features a premium, dark-mode "gamer" aesthetic with minimalist layout and clean typography.
+## Industry Concept Highlights
+A selection of specialized layouts tailored for different local industries.
 
-![Preview](custom-gaming-pcs/preview.jpg)
+### Boutique Accountancy Firm
+A stunning editorial design using deep colors and crisp typography to project decades of established trust and precision.
+![Heritage Bookkeeping](compilation/heritage.jpg)
 
----
+### Commercial Contractors
+A high-converting design using a bold, dark industrial theme with vibrant safety-color accents representing heavy-duty reliability.
+![Scaffolding Contractors](compilation/scaffolding.png)
 
-## [Heritage Bookkeeping](./heritage-bookkeeping/)
-A high-end financial and wealth management layout. This stunning editorial design uses deep forest green, crisp white, and serif typography to project decades of established trust and precision.
-
-![Preview](heritage-bookkeeping/preview.jpg)
-
----
-
-## [Six Knutsford / Cheshire](./six-knutsford/)
-Concept mockup for a 3-venue hospitality group. Unifies their brands under a mobile-first UI with a clean events/booking bento grid.
-
-![Preview](six-knutsford/preview.png)
-
----
-
-## [The Horseshoe Inn](./horseshoe-inn/)
-Modernization concept for a local pub fixing broken PDF menus with responsive, tabbed digital menus to drive mobile table bookings.
-
-![Preview](horseshoe-inn/preview.png)
-
----
-
-## [JMD Garden Maintenance](./jmd-garden-maintenance/)
-Lead-generation site concept for a local tradesperson running purely off Facebook, adding proper SEO and direct quote forms.
-
-![Preview](jmd-garden-maintenance/preview.png)
-
+### Custom Tech Lab
+A boutique layout specializing in high-performance hardware. Features a premium, dark-mode aesthetic with minimalist layout and clean typography.
+![Custom Gaming PCs](compilation/gaming.jpg)
