@@ -1,0 +1,10 @@
+﻿Add-Type -AssemblyName System.Drawing
+$img = [System.Drawing.Image]::FromFile("C:\Users\Wilshaw\.gemini\antigravity\scratch\client-mockups\compilation\logistics.png")
+$bmp = New-Object System.Drawing.Bitmap($img.Width, [math]::Round($img.Width * 9 / 16))
+$graph = [System.Drawing.Graphics]::FromImage($bmp)
+$rect = New-Object System.Drawing.Rectangle(0, 0, $bmp.Width, $bmp.Height)
+$graph.DrawImage($img, $rect, $rect, [System.Drawing.GraphicsUnit]::Pixel)
+$img.Dispose()
+$bmp.Save("C:\Users\Wilshaw\.gemini\antigravity\scratch\client-mockups\compilation\logistics-crop.png", [System.Drawing.Imaging.ImageFormat]::Png)
+$bmp.Dispose()
+$graph.Dispose()
