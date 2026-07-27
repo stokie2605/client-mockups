@@ -72,3 +72,25 @@ A boutique tech lab specializing in high-performance gaming rigs and retro conso
 A high-end financial and wealth management layout. This stunning editorial design uses deep forest green, crisp white, and serif typography to project decades of established trust and precision.
 
 ![Preview](heritage-bookkeeping/preview.jpg)
+
+---
+
+## [Six Knutsford / Cheshire](./six-knutsford/)
+Concept mockup for a 3-venue hospitality group. Unifies their brands under a mobile-first UI with a clean events/booking bento grid.
+
+![Preview](six-knutsford/preview.png)
+
+---
+
+## [The Horseshoe Inn](./horseshoe-inn/)
+Modernization concept for a local pub fixing broken PDF menus with responsive, tabbed digital menus to drive mobile table bookings.
+
+![Preview](horseshoe-inn/preview.png)
+
+---
+
+## [JMD Garden Maintenance](./jmd-garden-maintenance/)
+Lead-generation site concept for a local tradesperson running purely off Facebook, adding proper SEO and direct quote forms.
+
+![Preview](jmd-garden-maintenance/preview.png)
+
